@@ -1,9 +1,4 @@
-﻿class Branch
-{
-    List<Branch> branches = new List<Branch>();
-}
-
-class Program
+﻿class Program
 {
     static void Main(string[] args)
     {
