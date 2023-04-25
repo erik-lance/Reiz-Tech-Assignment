@@ -22,12 +22,8 @@ class Branch
 
 class Branching
 {
-    static void Main(string[] args)
+    public static void run()
     {
-        Console.WriteLine("Branching Hierarchical Structure");
-        Console.WriteLine("Erik Lance Tiongquico (2023 April)");
-        Console.WriteLine();
-
         // Create a tree of branches based on the diagram
         Branch root = new Branch();
 
