@@ -8,4 +8,4 @@ A Console App that calculates the clock angle and a Hierarchical Structure
 
 ## Branch
 - Built branch model based off of given diagram
-- Calcualtes by going through each child node
+- Calculates by going through each child node
